@@ -300,6 +300,5 @@ dependencies:
     - termcolor==1.1.0
     - textblob==0.15.1
     - visdcc==0.0.34
-    - wyns==0.0.dev0
 prefix: /home/wesleybeckner/anaconda3/envs/py36
 
