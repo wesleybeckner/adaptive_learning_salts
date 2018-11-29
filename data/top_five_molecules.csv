@@ -1,0 +1,11 @@
+,Salt Smiles,Cation Heavy Atoms,Tanimoto Similarity Score,Molecular Relative,Anion,predicted cpt,predicted density,calculated cpt,calculated density,"% error, cpt","% error, density",Round,Series,Category
+Top Cp,CCCCC(CC)(CCC)CC[N+]1=C(S)CCC1.C[C@@H](O)[C@H](N)C(=O)[O-],18,0.51,"N,N,N-triethyldodecan-1-aminium",L-threoninate,985,1043,1143,1006,14,4,1,1,Aminium
+,PCCCCCCCCCCC[n+]1ccccc1.CCCCCCCCOS(=O)(=O)[O-],18,0.82,1-butylpyridinium,octyl sulfate,932,1024,1054,1010,12,1,3,1,Pyridinium
+,CCCCCCCC[n+]1cccc(C)c1CCC.CCCCCCCCOS(=O)(=O)[O-],18,0.60,"1,2-diethylpyridinium",octyl sulfate,920,1007,1031,970,11,4,2,1,Pyridinium
+,Cc1ccc[n+](CCCCCCCCCCCP)c1.CCCCCCCCOS(=O)(=O)[O-],19,0.96,N-octyl-3-methylpyridinium,octyl sulfate,944,1019,966,1001,2,2,3,1,Pyridinium
+,CCCCCCCC[n+]1cccc(CCCC)c1.CCCCCCCCOS(=O)(=O)[O-],18,0.72,N-octyl-3-methylpyridinium,octyl sulfate,921,990,962,961,4,3,4,1,Pyridinium
+Top _,CCn1c(P)c(C(=O)Cl)[n+](C)c1[SH](=N)=O.[Br-],15,0.52,1-butyl-3-methylimidazolium,bromide,910,1409,366,1635,149,14,1,2,Imidazolium
+,C[N+]1=CC=CC=C1S.[Br-],8,0.60,1-ethylpyridinium,bromide,291,1400,212,1603,37,13,1,2,Pyridinium
+,Nc1c(N=NF)ccc(N=NNO)[n+]1C(F)C(O)P.O=S(=O)([O-])C(F)(F)F,19,0.51,1-butyl-3-methylimidazolium,trifluoromethanesulfonate,1065,1010,505,1588,111,36,1,1,Imidazolium
+,CCc1c(S(N)(=O)=O)ccc(N(C)O)[n+]1C.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,16,0.52,1-ethyl-2-methylpyridinium,bis[(trifluoromethyl)sulfonyl]imide,990,1577,585,1563,69,1,1,2,Pyridinium
+,N#CNCCn1cc[n+](CO)c1.[Br-],12,0.62,1-butyl-3-methylimidazolium,bromide,371,1402,342,1543,9,9,1,2,Imidazolium
